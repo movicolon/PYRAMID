@@ -14,7 +14,7 @@
 [9](https://raw.githubusercontent.com/movicolon/PYRAMID/main/9)  
 [10](https://raw.githubusercontent.com/movicolon/PYRAMID/main/10)  
 [11](https://raw.githubusercontent.com/movicolon/PYRAMID/main/11)  
-[12](https://raw.githubusercontent.com/movicolon/PYRAMID/main/12) 
+[12](https://raw.githubusercontent.com/movicolon/PYRAMID/main/12)  
 [13](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)  
 [14](https://raw.githubusercontent.com/movicolon/PYRAMID/main/14)  
 [15](https://raw.githubusercontent.com/movicolon/PYRAMID/main/15)  
