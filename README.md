@@ -21,4 +21,3 @@
 [14](https://raw.githubusercontent.com/movicolon/PYRAMID/main/14)  
 [15](https://raw.githubusercontent.com/movicolon/PYRAMID/main/15)  
 [16](https://raw.githubusercontent.com/movicolon/PYRAMID/main/16)  
-[S](https://raw.githubusercontent.com/movicolon/PYRAMID/main/S)  
