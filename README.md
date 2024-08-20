@@ -3,6 +3,8 @@
 
 ![1000000065](https://github.com/user-attachments/assets/c1b2d417-2dd2-46c6-9cd7-af374d9e6326)
 
+
+[N](https://raw.githubusercontent.com/movicolon/PYRAMID/main/N)  
 [1](https://raw.githubusercontent.com/movicolon/PYRAMID/main/1)  
 [2](https://raw.githubusercontent.com/movicolon/PYRAMID/main/2)  
 [3](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)  
@@ -19,3 +21,4 @@
 [14](https://raw.githubusercontent.com/movicolon/PYRAMID/main/14)  
 [15](https://raw.githubusercontent.com/movicolon/PYRAMID/main/15)  
 [16](https://raw.githubusercontent.com/movicolon/PYRAMID/main/16)  
+[S](https://raw.githubusercontent.com/movicolon/PYRAMID/main/S)  
