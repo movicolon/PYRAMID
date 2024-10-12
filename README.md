@@ -13,7 +13,7 @@ AND GROWTH](https://raw.githubusercontent.com/movicolon/PYRAMID/main/2)
 [BY 2025, UNDERSTAND : HOW SOMATIC
 CELLS FORM BIOELECTRIC NETWORKS
 STORE AND RECALL PATTERN MEMORIES THAT GUIDE 
-MORPHIGENESIS]](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)  
+MORPHIGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)  
 [TOP-DOWN-CONTROL-MECHANISMS-IN-PATTERN 
 REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMIDmain/18)  
 [BIOINFORMATICS-OF-SHAPE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/5)  
