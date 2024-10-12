@@ -1,33 +1,29 @@
 # WELCOME TO PYRAMID
 > PRINCES SHALL COME OUT OF EGYPT
 
-![1000000065](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/sphere.jpg)
+![Sphere Image](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/sphere.jpg)
 
-[N](https://raw.githubusercontent.com/movicolon/PYRAMID/main/N)  
-[UNDERSTAND BIOPHYSICAL MECHANISMS 
-THAT IMPLEMENT DECISION MAKING DURING COMPLEX PATTERN REGULATION ](https://raw.githubusercontent.com/movicolon/PYRAMID/main/1)  
-[HARNESS ENDOGENOUS BIOELECTRIC DYNAMICS 
-TOWARDS RATIONAL CONTROL OF FORM 
-AND GROWTH](https://raw.githubusercontent.com/movicolon/PYRAMID/main/2)  
-[BY 2025, UNDERSTAND : HOW SOMATIC
-CELLS FORM BIOELECTRIC NETWORKS
-STORE AND RECALL PATTERN MEMORIES THAT GUIDE 
-MORPHIGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)  
-[TOP-DOWN-CONTROL-MECHANISMS-IN-PATTERN 
-REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMIDmain/18)  
-[BIOINFORMATICS-OF-SHAPE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/5)  
-[BIOELECTRICAL-LANGUAGE-OF-EMBRYOGENOSIS](https://raw.githubusercontent.com/movicolon/PYRAMIDmain/128)  
-[7](https://raw.githubusercontent.com/movicolon/PYRAMIDmain/13)  
-[MY-JOURNEY-A-THE-FRONTIERS-OF-BIOLOGISTICAL-SCIENCE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/8)  
-![10100069](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/pyrasphere.jpg)
+## Links
+- [N](https://raw.githubusercontent.com/movicolon/PYRAMID/main/N)
+- [Understand Biophysical Mechanisms that Implement Decision Making during Complex Pattern Regulation](https://raw.githubusercontent.com/movicolon/PYRAMID/main/1)
+- [Harness Endogenous Bioelectric Dynamics Towards Rational Control of Form and Growth](https://raw.githubusercontent.com/movicolon/PYRAMID/main/2)
+- [By 2025, Understand: How Somatic Cells Form Bioelectric Networks, Store and Recall Pattern Memories that Guide Morphogenesis](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)
+- [Top-Down Control Mechanisms in Pattern Regulation](https://raw.githubusercontent.com/movicolon/PYRAMID/main/18)
+- [Bioinformatics of Shape](https://raw.githubusercontent.com/movicolon/PYRAMID/main/5)
+- [Bioelectrical Language of Embryogenesis](https://raw.githubusercontent.com/movicolon/PYRAMID/main/128)
+- [7](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)
+- [My Journey at the Frontiers of Biologistical Science](https://raw.githubusercontent.com/movicolon/PYRAMID/main/8)
 
-[9](https://raw.githubusercontent.com/movicolon/PYRAMID/main/9)  
-[10](https://raw.githubusercontent.com/movicolon/PYRAMID/main/10)  
-[11](https://raw.githubusercontent.com/movicolon/PYRAMID/main/11)  
-[12](https://raw.githubusercontent.com/movicolon/PYRAMID/main/12)  
-[13](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)  
+![Pyrasphere Image](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/pyrasphere.jpg)
 
-![10100068](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/entropy.jpg)
-[14](https://raw.githubusercontent.com/movicolon/PYRAMID/main/14)  
-[15](https://raw.githubusercontent.com/movicolon/PYRAMID/main/15)  
-[16](https://raw.githubusercontent.com/movicolon/PYRAMID/main/16)  
+- [Radical Architecture For Sustainable Living: Merging Living Systems With Buildings](https://raw.githubusercontent.com/movicolon/PYRAMID/main/9)
+- [the-eating: victuals, refaction, etc.](https://raw.githubusercontent.com/movicolon/PYRAMID/main/10)
+- [the-wear: clothe cloth-thinge, bodily-adornment ](https://raw.githubusercontent.com/movicolon/PYRAMID/main/11)
+- [TRAVEL](https://raw.githubusercontent.com/movicolon/PYRAMID/main/12)
+- [IMMUNITY](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)
+
+![Entropy Image](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/entropy.jpg)
+
+- [14]()
+- [15](https://raw.githubusercontent.com/movicolon/PYRAMID/main/15)
+- [16](https://raw.githubusercontent.com/movicolon/PYRAMID/main/16)
