@@ -1,7 +1,7 @@
 # WELCOME TO PYRAMID
 > PRINCES SHALL COME OUT OF EGYPT
 
-![1000000065](https://github.com/user-attachments/assets/c1b2d417-2dd2-46c6-9cd7-af374d9e6326)
+![1000000065](https://github.com/user-attachments/assets/)
 
 
 [N](https://raw.githubusercontent.com/movicolon/PYRAMID/main/N)  
