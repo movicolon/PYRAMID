@@ -2,6 +2,7 @@
 > PRINCES SHALL COME OUT OF EGYPT
 
 ![1000000065](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/sphere.jpg)
+
 [N](https://raw.githubusercontent.com/movicolon/PYRAMID/main/N)  
 [UNDERSTAND BIOPHYSICAL MECHANISMS 
 THAT IMPLEMENT DECISION MAKING DURING COMPLEX PATTERN REGULATION ](https://raw.githubusercontent.com/movicolon/PYRAMID/main/1)  
