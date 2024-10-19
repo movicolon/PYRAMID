@@ -8,7 +8,7 @@
 - [UNDERSTAND BIOPHYSICAL MECHANISMS THAT IMPLEMENT DECISION MAKING DURING COMPLEX PATTERN REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMID/main/1)
 - [HARNESS ENDOGENOUS BIOELECTRIC DYNAMICS TOWARDS RATIONAL CONTROL OF FORM AND GROWTH](https://raw.githubusercontent.com/movicolon/PYRAMID/main/2)
 - [BY 2025, UNDERSTAND: HOW SOMATIC CELLS FORM BIOELECTRIC NETWORKS, STORE AND RECALL PATTERN MEMORIES THAT GUIDE MORPHOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/4)
-- [TOP-DOWN CONTROL MECHANISMS IN PATTERN REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMID/main/18)
+- [TOP-DOWN CONTROL MECHANISMS IN PATTERN REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMID/main/16)
 - [BIOINFORMATICS OF SHAPE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/5)
 - [BIOELECTRICAL LANGUAGE OF EMBRYOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)
 - [7](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)
@@ -20,7 +20,7 @@
 - [THE-EATING: VICTUALS, REFACTION, ETC.](https://raw.githubusercontent.com/movicolon/PYRAMID/main/10)
 - [THE-WEAR: CLOTHE CLOTH-THINGE, BODILY-ADORNMENT](https://raw.githubusercontent.com/movicolon/PYRAMID/main/11)
 - [TRAVEL](https://raw.githubusercontent.com/movicolon/PYRAMID/main/12)
-- [IMMUNITY](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)
+- [IMMUNITY](https://raw.githubusercontent.com/movicolon/PYRAMID/main/14)
 
 ![Entropy Image](https://raw.githubusercontent.com/movicolon/PYRAMID/refs/heads/main/entropy.jpg)
 
