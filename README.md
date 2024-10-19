@@ -7,7 +7,7 @@
 - [N](https://raw.githubusercontent.com/movicolon/PYRAMID/main/N)
 - [UNDERSTAND BIOPHYSICAL MECHANISMS THAT IMPLEMENT DECISION MAKING DURING COMPLEX PATTERN REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMID/main/1)
 - [HARNESS ENDOGENOUS BIOELECTRIC DYNAMICS TOWARDS RATIONAL CONTROL OF FORM AND GROWTH](https://raw.githubusercontent.com/movicolon/PYRAMID/main/2)
-- [BY 2025, UNDERSTAND: HOW SOMATIC CELLS FORM BIOELECTRIC NETWORKS, STORE AND RECALL PATTERN MEMORIES THAT GUIDE MORPHOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)
+- [BY 2025, UNDERSTAND: HOW SOMATIC CELLS FORM BIOELECTRIC NETWORKS, STORE AND RECALL PATTERN MEMORIES THAT GUIDE MORPHOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/4)
 - [TOP-DOWN CONTROL MECHANISMS IN PATTERN REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMID/main/18)
 - [BIOINFORMATICS OF SHAPE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/5)
 - [BIOELECTRICAL LANGUAGE OF EMBRYOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)
