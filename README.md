@@ -27,4 +27,4 @@
 - [oregonlive.com](navgati.in)
 - [JUSTIN](https://freeenglishsite.com/LDS/PofGP/pyramid_map2.htm)
 - [🔑](https://freeenglishsite.com/world/index.htm)
-- 
+
