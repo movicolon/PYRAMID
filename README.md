@@ -10,7 +10,7 @@
 - [BY 2025, UNDERSTAND: HOW SOMATIC CELLS FORM BIOELECTRIC NETWORKS, STORE AND RECALL PATTERN MEMORIES THAT GUIDE MORPHOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)
 - [TOP-DOWN CONTROL MECHANISMS IN PATTERN REGULATION](https://raw.githubusercontent.com/movicolon/PYRAMID/main/18)
 - [BIOINFORMATICS OF SHAPE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/5)
-- [BIOELECTRICAL LANGUAGE OF EMBRYOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/128)
+- [BIOELECTRICAL LANGUAGE OF EMBRYOGENESIS](https://raw.githubusercontent.com/movicolon/PYRAMID/main/3)
 - [7](https://raw.githubusercontent.com/movicolon/PYRAMID/main/13)
 - [MY JOURNEY AT THE FRONTIERS OF BIOLOGISTICAL SCIENCE](https://raw.githubusercontent.com/movicolon/PYRAMID/main/8)
 
