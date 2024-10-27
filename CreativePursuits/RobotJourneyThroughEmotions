@@ -1,0 +1,28 @@
+BEGIN RobotJourney
+
+    SET emotions = []
+
+    FOR EACH challenge (like making friends, knowing himself, understanding life, and love) DO
+        IF challenge is making friends THEN
+            TRY to be nice and talk to people
+            IF people like him THEN
+                ADD "happy" to emotions
+
+        ELSE IF challenge is knowing himself THEN
+            LEARN about what it means to be human
+            IF he understands better THEN
+                ADD "smart" to emotions
+
+        ELSE IF challenge is understanding life THEN
+            THINK about what it means to live
+            IF he accepts life’s ups and downs THEN
+                ADD "thankful" to emotions
+
+        ELSE IF challenge is love THEN
+            TELL someone he cares about them
+            IF they care back THEN
+                ADD "joy" to emotions
+
+    SHOW emotions
+
+END RobotJourney
