@@ -1,0 +1,25 @@
+Convert weight to mass:
+Weight (in pounds) = 145 lb
+Mass (in kg) = 145 lb ÷ 2.20462 ≈ 65.77 kg
+
+Estimate the distance of arm movement:
+Let's assume the average distance raised is about 0.5 meters (which is a rough estimate for arm movement).
+
+Calculate the work done for each set of repetitions:
+Work done (in joules) = Force × Distance
+Force = mass × gravity (where gravity = 9.81 m/s²)
+
+For 1 repetition:
+Force = 65.77 kg × 9.81 m/s² ≈ 645.5 N
+Work done for 1 repetition = 645.5 N × 0.5 m ≈ 322.75 J
+
+Calculate total work for each set of repetitions:
+
+For 40 repetitions:
+Total work = 40 × 322.75 J ≈ 12,910 JFor 25 repetitions:
+Total work = 25 × 322.75 J ≈ 8,068.75 JFor 7 repetitions:
+Total work = 7 × 322.75 J ≈ 2,259.25 J
+
+Summary of Energy Estimates:
+
+40 repetitions: ≈ 12,910 J25 repetitions: ≈ 8,068.75 J7 repetitions: ≈ 2,259.25 J
