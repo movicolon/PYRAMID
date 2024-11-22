@@ -1,0 +1,1 @@
+**"I move through the world with a shield, sometimes speaking as if I’ve got it all figured out, even when I don’t. I adapt, pretending the things I need are there, even when they aren’t. It’s all part of the game, and I’m having fun with it. My power is in the flow—whether it’s the rain, the cover, or the money. I create my own reality, one step at a time."**
