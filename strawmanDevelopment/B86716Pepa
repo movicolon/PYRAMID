@@ -6,6 +6,13 @@
 📜 **Preamble**  
 We, the **Shrunken Kids**, citizens of worlds beyond the visible, form this compact to seek unity, freedom, and knowledge. 🌍🪞🌀
 
+class User:
+    def __init__(self, iba_status):
+        self.iba_status = iba_status
+
+def sum_souls(user1, user2):
+    return user1.iba_status + user2.iba_status
+
 ---
 
 **🌈 Articles:**
